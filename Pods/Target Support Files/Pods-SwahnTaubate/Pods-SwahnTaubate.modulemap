@@ -1,0 +1,6 @@
+framework module Pods_SwahnTaubate {
+  umbrella header "Pods-SwahnTaubate-umbrella.h"
+
+  export *
+  module * { export * }
+}

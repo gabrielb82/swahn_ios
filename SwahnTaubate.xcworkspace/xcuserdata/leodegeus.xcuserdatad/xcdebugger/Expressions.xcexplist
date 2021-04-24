@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WarehouseCalculator.printArray():WarehouseCalculator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ware!.warehouse!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WarehouseCalculator.findFirstTimeIn(warehouse:):WarehouseCalculator.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WarehouseCalculator.workIf(actualLocation:):WarehouseCalculator.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WarehouseCalculator.discoverWarehouse():WarehouseCalculator.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.startButtonTap(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "snapshot?.data()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WarehouseCalculator.testTime():WarehouseCalculator.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.locationManager(_:didUpdateLocations:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "truck">
+            </PersistentString>
+            <PersistentString
+               value = "location">
+            </PersistentString>
+            <PersistentString
+               value = "journeyName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.syncNewCoordinate(location:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "geoPoint">
+            </PersistentString>
+            <PersistentString
+               value = "location.altitude">
+            </PersistentString>
+            <PersistentString
+               value = "location.speed">
+            </PersistentString>
+            <PersistentString
+               value = "journeyName">
+            </PersistentString>
+            <PersistentString
+               value = "location.horizontalAccuracy">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WarehouseCalculator.workWith(actualLocation:):WarehouseCalculator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "auxWarehouse[0]?.location.timestamp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirebaseManager.updateConfig(completion:):FirebaseManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CLLocation(latitude: Portaria.latitude, longitude: Portaria.longitude)">
+            </PersistentString>
+            <PersistentString
+               value = "CLLocation(latitude: Portaria.latitude, longitude: Portaria.longitude).latitude">
+            </PersistentString>
+            <PersistentString
+               value = "Portaria.latitude">
+            </PersistentString>
+            <PersistentString
+               value = "WarehouseCoordinate.Portaria">
+            </PersistentString>
+            <PersistentString
+               value = " WarehouseCoordinate.Portaria.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WarehouseCalculator.testIfCoordinateIsInRegion(actualLocation:):WarehouseCalculator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "warehouse.1.coordinate">
+            </PersistentString>
+            <PersistentString
+               value = "actualLocation.coordinate.longitude">
+            </PersistentString>
+            <PersistentString
+               value = "CONSTS.DISTANCETOCONSIDER*CONSTS.PROPORTIONALPATIO">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NetLayer.get(url:completion:):NetLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "URL(string: url)!">
+            </PersistentString>
+            <PersistentString
+               value = "&quot;https://us-central1-swahn-612fb.cloudfunctions.net/didLeaveOfWarehouse?warehouse=PatioBalan&#xe7;a&amp;duration=408.3077609539032&quot;.addingPercentEncoding(withAllowedCharacters: .urlHostAllowed)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.initTeste(journeyCount:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FirebaseManager.didLeaveInWarehouse(warehouse:time:truck:journeyName:):FirebaseManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;https://us-central1-swahn-612fb.cloudfunctions.net/didLeaveOfWarehouse?warehouse=\(warehouse)&amp;duration=\(Double(duration))&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetLayer.get(url:completion:):NetLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(data: data, encoding: String.Encoding.utf8)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
